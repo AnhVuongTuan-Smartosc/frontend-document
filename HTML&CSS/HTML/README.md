@@ -9,9 +9,16 @@
 
 # Table of content
 
-1. [HTML](HTML/README.md)
-2. [CSS](CSS/README.md)
+1. [Basic of HTML](https://www.w3schools.com/html/html_intro.asp)
+2. [Forms and Validations](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
+3. [Convention and Best Practices](https://github.com/hail2u/html-best-practices)
+4. [TodoList Example](TodoList.html)
+5. [Quiz](https://www.w3schools.com/html/html_quiz.asp)
 
 # Contributing
 
 ...
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
