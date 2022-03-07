@@ -12,6 +12,9 @@
 1. [HTML](HTML/README.md)
 2. [CSS](CSS/README.md)
 
+# Practice
+- Create a Todo List with Responsive design
+- Finish the Quiz in each section
 # Contributing
 
 ...
